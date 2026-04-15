@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README.md
+
+!manuals/
+!pdfs/
+!summaries/
+!terminologies_ordered/
+!terms/
