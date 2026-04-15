@@ -1,0 +1,171 @@
+### JavaScript Terminology
+
+- addEventListener
+- AggregateError
+- Ajax
+- alert
+- Angular
+- API
+- append
+- appendChild
+- Array
+- Arrow functions
+- async / await
+- Attribute
+- BigInt
+- BOM (Browser Object Model)
+- Boolean
+- Brendan Eich
+- Bun
+- Callback
+- camelCase
+- case
+- catch
+- children
+- classList
+- className
+- clearTimeout
+- click
+- Closure
+- Collections indexées
+- confirm
+- Console
+- const
+- constructor
+- continue
+- Court-circuit (Short-circuit evaluation)
+- Data types (Number, BigInt, String, Boolean, Undefined, Null, Object, Array)
+- Date object
+- dblclick
+- Debugger
+- default
+- defer
+- Deno
+- Destructuring
+- do...while
+- DOM (Document Object Model)
+- DOM manipulation (appendChild, insertBefore, append, prepend, insertAdjacentElement, removeChild, remove)
+- DOM retrieval (getElementById, querySelector, querySelectorAll)
+- DOMException
+- Dynamic typing (Typage dynamique)
+- ECMAScript (ECMA-262)
+- Element
+- Error
+- EvalError
+- Event Bubbling
+- Event Listeners (addEventListener, removeEventListener)
+- Event Loop
+- Events (Événements)
+- EventTarget
+- Exceptions (try...catch...finally, throw)
+- Falsy values
+- Fetch API
+- finally
+- firstElementChild
+- Fonctions fléchées (Arrow functions)
+- for
+- for...in
+- for...of
+- forEach
+- form
+- FormData
+- Framework
+- getElementById
+- GET
+- Hoisting
+- HTML
+- HTMLElement
+- IDE
+- if...else
+- includes
+- increment / decrement
+- Infinity
+- innerHTML
+- input
+- instanceof
+- Interval
+- Interpreter / Compiler à la volée (JIT)
+- isNaN
+- Itérable
+- JavaScript
+- join
+- JSON
+- Lambda
+- lastElementChild
+- let
+- Logical operators (&&, ||, !)
+- Map / Set (Keyed collections)
+- Math object
+- MDN Web Docs
+- NaN (Not a Number)
+- Netscape
+- Node
+- Node.js
+- NodeList
+- NPM
+- Null
+- Nullish coalescing (??)
+- Object
+- Objet à prototype
+- Opérateur rest (...)
+- Optional chaining (?.)
+- Parameters / Paramètres
+- parseFloat
+- parseInt
+- POST
+- preventDefault
+- Promise.all
+- Promise.allSettled
+- Promise.any
+- Promise.race
+- Promises (Promesses - Pending, Fulfilled, Rejected, resolve, reject, then, catch, finally)
+- prompt
+- Propagation
+- Prototype
+- querySelector
+- querySelectorAll
+- RangeError
+- React Native / Ionic
+- ReferenceError
+- removeEventListener
+- resolve / reject
+- return
+- Scope
+- Script Web
+- setCustomValidity
+- setInterval
+- setTimeout
+- Short-circuit evaluation
+- slice
+- splice
+- split
+- stopImmediatePropagation
+- stopPropagation
+- Strict Mode
+- String
+- Sublime Text
+- switch
+- SyntaxError
+- TC39
+- Template Strings
+- Ternary operator
+- textContent
+- throw
+- Timers
+- Timeout
+- toString
+- try...catch...finally
+- Truthy values
+- typeof
+- TypeError
+- Undefined
+- URIError
+- use strict
+- Validation des contraintes API (validity, validationMessage, willValidate, setCustomValidity)
+- var
+- Variable scope
+- Vim
+- Visual Studio Code
+- Weak typing (Typage faible)
+- WebStorm
+- while

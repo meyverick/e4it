@@ -1,0 +1,107 @@
+### C# Terminology
+
+- .NET Framework
+- Abstract Class
+- Accessor (get)
+- Accessibility Levels
+- Access Modifiers
+- Alias
+- Anonymous Method
+- Auto-property
+- Auto-property initializers
+- Base Class
+- base keyword
+- Binary Operators
+- Boxing
+- C# 6.0 Features
+- C# 7.0 Features
+- Class
+- CLR (Common Language Runtime)
+- Code Abstraction
+- Compiler
+- Constructor
+- Constructor chaining (this)
+- Contract
+- Custom Exceptions
+- Deconstruction
+- Deconstructor
+- Default Constructor
+- Delegate (Action, Func)
+- Derived Class
+- Destructor
+- Dispose method
+- Encapsulation
+- EventHandler
+- Events
+- Exception
+- Exception Filter
+- Explicit Casting
+- Expression-bodied methods
+- Expression-bodied properties
+- Extension Method
+- Function Pointer
+- Garbage Collector
+- Generics
+- Getter-only auto-property
+- Heap
+- IDisposable
+- Implicit Casting
+- Index Initializer
+- Indexer
+- Inheritance
+- Instantiation
+- Interface
+- internal
+- Lambda Expression
+- Local Functions
+- Member Access Filtering
+- Method Hiding (new)
+- Method Overloading
+- Method Redefinition (override)
+- Multiple Inheritance Solution
+- Mutator (set)
+- Nameof Expression
+- Namespace
+- Naked constraint
+- Nested Types
+- Null-conditional Operator
+- Numerical Literals (underscores)
+- Object Construction
+- Object Destruction
+- Operator Overloading
+- Output Parameters
+- Partial Class
+- Pattern Matching (is, switch)
+- Polymorphism
+- private
+- private protected
+- Property
+- protected
+- protected internal
+- public
+- Reference Types
+- Ref Return / Ref Local
+- Roslyn
+- RoutedEventHandler
+- Runtime
+- Scope
+- sealed class
+- Stack
+- Static Class
+- String Interpolation
+- System.Object
+- Throw
+- Throw Expression
+- Try-Catch-Finally
+- Tuples
+- Type Parameters
+- Unary Operators
+- Unboxing
+- Using Block
+- using directive
+- using static classes
+- Value Types
+- virtual keyword
+- where constraint
+- Windows Forms
+- WPF (Windows Presentation Foundation)

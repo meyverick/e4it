@@ -1,0 +1,52 @@
+### Database Terminology
+
+- ACID (Atomicité, Consistance, Isolation, Durabilité)
+- Accès concurrents
+- Association (Binaire, Ternaire, Récursive, Cyclique)
+- Association Cardinality (One-to-One, One-to-Many, Many-to-Many)
+- Attribut (Atomique, Composite, Dérivé, Identifiant)
+- Base de données
+- Cardinalité (Totale, Partielle, Exclusive, Overlapping)
+- Clé étrangère (FK)
+- Clé primaire (PK)
+- CODASYL
+- Contrainte d'intégrité (Primary Key, Foreign Key, Domain, Line, Column)
+- Couche conceptuelle
+- Couche logique / Schéma de communauté (Community Schema)
+- Couche physique / Couche interne (Internal Schema)
+- Couche externe / External level
+- Data catalog
+- Data dictionary
+- Database Lifecycle (Analysis, Modeling, Implementation, Test/Evaluation, Use)
+- DB-Main
+- DBMS / SGBD (Système de gestion de bases de données)
+- DDL (Data Definition Language)
+- DML (Data Manipulation Language)
+- DRL (Data Retrieval Language)
+- Donnée persistante
+- Donnée transitoire
+- Entity / Entité
+- Entity Class / Classe d'Entité (Faible, Forte)
+- Héritage / Héritage multiple
+- Indépendance des données
+- Information structure (Data, Information, Knowledge, Wisdom)
+- Intégrité référentielle
+- Langage déclaratif
+- Langage procédural
+- Métadonnée
+- Modèle entité-association
+- Modèle orienté objets
+- Modèle relationnel
+- Modélisation de données
+- Multiple Specialization
+- Redondance d'information
+- Relation is-a
+- Roles in Association
+- Roll back
+- Schéma relationnel
+- Spécialisation / Généralisation
+- SQL (Structured Query Language)
+- Transaction
+- UML diagramme de classes
+- Valeur NULL
+- Vue / View

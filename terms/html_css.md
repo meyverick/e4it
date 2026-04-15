@@ -1,0 +1,309 @@
+### HTML & CSS Terminology
+
+- @font-face
+- @import
+- @keyframes
+- @media
+- Absolute Positioning
+- Adjacency combinator (+)
+- Adjacency combinator (~)
+- alink
+- Anchor
+- Animation
+- animation-delay
+- animation-direction
+- animation-duration
+- animation-fill-mode
+- animation-iteration-count
+- animation-name
+- animation-play-state
+- animation-timing-function
+- area
+- article
+- aside
+- async
+- Attribute
+- Attribute selectors ([attr^="val"], [attr$="val"], [attr*="val"])
+- audio
+- autocomplete
+- background-attachment
+- background-clip
+- background-color
+- background-image
+- background-origin
+- background-position
+- background-repeat
+- background-size
+- blockquote
+- blur
+- Border
+- border-bottom
+- border-color
+- border-left
+- border-radius
+- border-right
+- border-top
+- border-width
+- box-flex
+- box-ordinal-group
+- box-orient
+- Box Model
+- box-shadow
+- br
+- brightness
+- calc()
+- canvas
+- caption
+- caption-side
+- Cascading
+- Cascading Style Sheets (CSS)
+- case-sensitive
+- Cell
+- Cellpadding
+- Cellspacing
+- center
+- Checkbox
+- checked
+- cite
+- Class Selector
+- clear
+- Client/Server Environment
+- clip
+- code
+- color
+- Colspan
+- column-count
+- column-gap
+- column-rule
+- column-width
+- Comments
+- content
+- contenteditable
+- contrast
+- coords
+- CSS3
+- cubic-bezier
+- cursor
+- datalist
+- dd
+- Definition List
+- del
+- details
+- dfn
+- dirname
+- display
+- div
+- dl
+- Document Structure
+- download
+- draggable
+- dropzone
+- dt
+- em
+- embed
+- Embedded Styles
+- empty
+- External Link
+- fieldset
+- figcaption
+- figure
+- filter
+- first-letter
+- first-line
+- first-of-type
+- Flexbox (flex-direction, justify-content, align-items, flex-wrap, flex-grow, flex-shrink, flex-basis, order)
+- float
+- font
+- Font-family
+- font-size
+- font-style
+- font-variant
+- Font-weight
+- footer
+- Form
+- Form attributes (placeholder, required, pattern, contenteditable, novalidate, autocomplete, dirname)
+- Frame
+- Frameset
+- GET Method
+- GIF/JPEG
+- grayscale
+- Grid Layout
+- h1 to h6
+- header
+- height
+- Hexadecimal Color
+- href
+- hspace
+- HSLa
+- HTML (Hypertext Markup Language)
+- HTML5
+- HTTP Protocol
+- hue-rotate
+- Hypertext Link
+- i (italic)
+- ID Selector
+- iframe
+- Image Mapping
+- img
+- Imported Styles
+- Indentation
+- Indexing
+- Inheritance (CSS)
+- Inline Styles
+- input
+- Input Field
+- ins
+- Internal Link
+- invalid
+- invert
+- kbd
+- keywords
+- label
+- last-of-type
+- legend
+- letter-spacing
+- li
+- link
+- Linked Styles
+- linear-gradient
+- list-style
+- main
+- map
+- Margin
+- margin-bottom
+- margin-left
+- margin-right
+- margin-top
+- mark
+- max
+- max-height
+- max-width
+- Media Queries
+- metadata
+- meter
+- method
+- min
+- min-height
+- min-width
+- multiple
+- name
+- nav
+- Nesting
+- noscript
+- novalidate
+- nth-child
+- nth-last-child
+- object
+- ol
+- only-child
+- opacity
+- Option
+- Ordered List
+- output
+- p (paragraph)
+- Padding
+- padding-bottom
+- padding-left
+- padding-right
+- padding-top
+- param
+- pattern
+- placeholder
+- Positioning
+- POST Method
+- progress
+- Pseudo-class (:root, :checked, :empty, :target, :valid, :invalid, :first-of-type, :last-of-type, :only-child)
+- Pseudo-element
+- q (quote)
+- radial-gradient
+- Radio Button
+- Relative Positioning
+- rem
+- required
+- RGB Code / RGBA
+- Robot
+- robots
+- Root Element
+- rotate
+- Row
+- rowspan
+- Rowspan
+- rp
+- rt
+- ruby
+- s (strikethrough)
+- samp
+- saturate
+- scale
+- script
+- Search Engine
+- section
+- Select List
+- select
+- Semantic Tags (<header>, <nav>, <section>, <article>, <aside>, <footer>, <main>, <figure>, <figcaption>)
+- sepia
+- SGML (Standard Generalized Markup Language)
+- shape
+- size
+- skew
+- small
+- source
+- span
+- src
+- Standardization
+- step
+- strong
+- style
+- sub
+- summary
+- sup
+- svg
+- Table (Nested Tables)
+- Tag (Balise)
+- target
+- tbody
+- td
+- text-align
+- text-decoration
+- text-indent
+- text-overflow
+- text-shadow
+- text-transform
+- tfoot
+- th
+- thead
+- time
+- title
+- Transaction HTTP
+- Transform (rotate, translate, scale, skew)
+- Transition
+- transition-delay
+- transition-duration
+- transition-property
+- transition-timing-function
+- type
+- u (underline)
+- ul
+- URL (Universal Resource Locator)
+- usemap
+- valid
+- valign
+- value
+- var
+- vh
+- Viewport (<meta name="viewport">)
+- visibility
+- vlink
+- vmax
+- vmin
+- vspace
+- vw
+- W3C
+- WHATWG
+- wbr
+- width
+- word-spacing
+- word-wrap
+- WYSIWYG
+- xmp
+- Z-index

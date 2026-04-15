@@ -3,8 +3,16 @@
 !.gitignore
 !README.md
 
+!.gemini/
+!.gemini/GEMINI.md
+!.gemini/agents/
+!.gemini/agents/**
+
 !manuals/
-!pdfs/
+!manuals/**
 !summaries/
+!summaries/**
 !terminologies_ordered/
+!terminologies_ordered/**
 !terms/
+!terms/**

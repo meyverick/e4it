@@ -1,0 +1,171 @@
+### SQL Server & T-SQL Terminology
+
+- .ldf (log file)
+- .mdf (data file)
+- .ndf (data file)
+- ABS
+- ACID (Atomique, Cohérente, Isolée, Durable)
+- Alias
+- ALL
+- ALTER TABLE
+- AND
+- ANY
+- ASC
+- Attribut
+- AUTO-COMMIT
+- Auto-incrémentation
+- AVG
+- Backup
+- Base de données
+- BEGIN TRANSACTION
+- BETWEEN
+- BIGINT
+- BIT
+- Cardinalité
+- CASE...WHEN...THEN...ELSE...END
+- CAST
+- Champ
+- CHAR
+- CHARINDEX
+- CHECK
+- Clustered / Non-Clustered Index
+- COALESCE
+- Collation
+- Colonne
+- COMMIT
+- Concaténation
+- CONSTRAINT
+- CONVERT
+- COUNT
+- CREATE TABLE
+- CROSS JOIN
+- CTE (Common Table Expression)
+- CUBE / ROLLUP
+- Database
+- Database Manager
+- DATEADD / DATEDIFF
+- DATETIME / DATETIME2
+- DATEPART
+- DDL (Data Definition Language)
+- DEADLOCK
+- DECIMAL
+- DEFAULT
+- DELETED
+- DELETE FROM
+- Denormalization
+- DESC
+- DISTINCT
+- DML (Data Manipulation Language)
+- DROP TABLE
+- DRL (Data Retrieval Language)
+- DUAL
+- Enregistrement
+- EQUI-JOIN
+- EXCEPT
+- Execution Plan
+- EXISTS
+- Extent
+- FLOAT
+- FOREIGN KEY
+- FROM
+- FULL OUTER JOIN
+- Fusion de données (MERGE)
+- GETDATE()
+- GROUP BY
+- HAVING
+- IDENTITY
+- Index
+- IN
+- INNER JOIN
+- INSERTED
+- INSERT INTO
+- Instance
+- Intégrité référentielle
+- INTERSECT
+- IS (NOT) NULL
+- Jointures horizontales / verticales
+- LEFT OUTER JOIN
+- LEN
+- Ligne
+- LIKE
+- Log Shipping
+- LOWER
+- LTRIM / RTRIM
+- Many-to-Many
+- MAX
+- MERGE INTO
+- MIN
+- MINUS
+- Mirroring
+- Modèle EA
+- Modulo
+- money
+- NON EQUI-JOIN
+- Normalization
+- NOT NULL
+- NCHAR / NVARCHAR (Unicode)
+- NTEXT (DÉPRÉCIÉ)
+- NULLIF
+- NUMERIC
+- OLAP (CUBE OLAP)
+- ON DELETE / ON UPDATE (CASCADE, SET NULL, SET DEFAULT, NO ACTION)
+- One-to-Many
+- One-to-One
+- OR
+- ORDER BY
+- OUTPUT
+- Page (8 KB)
+- Parser
+- PRIMARY KEY
+- Précédence des opérateurs
+- Produit cartésien
+- Query Executor
+- Query Optimizer
+- Query Processor
+- REAL
+- Recovery Model
+- REPLACE
+- REPLICATE
+- Replication
+- RIGHT OUTER JOIN
+- ROLLBACK
+- ROWVERSION
+- Schema
+- Schéma relationnel
+- SELECT
+- SELF-JOIN
+- SET
+- SGBD
+- SMALLDATETIME
+- SMALLINT
+- SQL
+- SQL Manager
+- SQL déclaratif
+- SQL Server Agent
+- SQL Server Management Studio (SSMS)
+- SQL Server Procedure
+- Storage Engine
+- SUBSTRING
+- SUM
+- Sous-requêtes (Subqueries - Scalaire, Multi-valeur, Tabulaire, Corrélée)
+- T-SQL (Transact-SQL)
+- Table
+- TEXT (DÉPRÉCIÉ)
+- TIME
+- TINYINT
+- TRUNCATE TABLE
+- Trigger
+- UNION [ALL]
+- UNIQUE
+- UNIQUEIDENTIFIER
+- UPPER
+- User-Defined Function (UDF)
+- VALUES
+- VARBINARY
+- VARCHAR
+- Verrous (Locks)
+- View
+- WHERE
+- Wildcard
+- WITH
+- XML data type

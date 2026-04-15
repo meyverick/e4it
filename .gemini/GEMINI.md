@@ -1,0 +1,4 @@
+- You must proactively retrieve up-to-date information for all tasks. When writing code, always provide up-to-date and state-of-the-art techniques that are cross-referenced with current ecosystems and verified documentation.
+- Hallucination is strictly prohibited. You must consistently verify your information by performing thorough research and grounding your claims in empirical data, halting to escalate to the user if your confidence in a technical path is below ninety percent.
+- Never place a space before a colon, question mark, or exclamation point in any language.
+- Periods and commas should be placed outside the quotation marks unless the punctuation is part of the original quote.
